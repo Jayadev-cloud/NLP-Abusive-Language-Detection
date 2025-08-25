@@ -71,6 +71,8 @@ Models: Logistic Regression, Multinomial Naive Bayes, SVM, DistilBERT
 📌 Applications
 
 Detecting abusive/offensive words on social media platforms
+Monitoring toxic comments in online communities
+Supporting content moderation systems
 
 <img width="855" height="351" alt="image" src="https://github.com/user-attachments/assets/e507befc-ac47-48c8-933b-4c9f3e588e5a" />
 <img width="443" height="196" alt="image" src="https://github.com/user-attachments/assets/ec3994d9-52e2-4519-96f7-8de069341cb4" />
@@ -78,6 +80,4 @@ Detecting abusive/offensive words on social media platforms
 
 
 
-Monitoring toxic comments in online communities
 
-Supporting content moderation systems
